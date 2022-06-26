@@ -1,0 +1,17 @@
+C:\Users\Dorotheo\Documents\C#\JogodaVelha\JogodaVelha\bin\Debug\net6.0-windows\JogodaVelha.exe
+C:\Users\Dorotheo\Documents\C#\JogodaVelha\JogodaVelha\bin\Debug\net6.0-windows\JogodaVelha.deps.json
+C:\Users\Dorotheo\Documents\C#\JogodaVelha\JogodaVelha\bin\Debug\net6.0-windows\JogodaVelha.runtimeconfig.json
+C:\Users\Dorotheo\Documents\C#\JogodaVelha\JogodaVelha\bin\Debug\net6.0-windows\JogodaVelha.dll
+C:\Users\Dorotheo\Documents\C#\JogodaVelha\JogodaVelha\bin\Debug\net6.0-windows\JogodaVelha.pdb
+C:\Users\Dorotheo\Documents\C#\JogodaVelha\JogodaVelha\obj\Debug\net6.0-windows\JogodaVelha.csproj.AssemblyReference.cache
+C:\Users\Dorotheo\Documents\C#\JogodaVelha\JogodaVelha\obj\Debug\net6.0-windows\JogodaVelha.App.resources
+C:\Users\Dorotheo\Documents\C#\JogodaVelha\JogodaVelha\obj\Debug\net6.0-windows\JogodaVelha.csproj.GenerateResource.cache
+C:\Users\Dorotheo\Documents\C#\JogodaVelha\JogodaVelha\obj\Debug\net6.0-windows\JogodaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorotheo\Documents\C#\JogodaVelha\JogodaVelha\obj\Debug\net6.0-windows\JogodaVelha.AssemblyInfoInputs.cache
+C:\Users\Dorotheo\Documents\C#\JogodaVelha\JogodaVelha\obj\Debug\net6.0-windows\JogodaVelha.AssemblyInfo.cs
+C:\Users\Dorotheo\Documents\C#\JogodaVelha\JogodaVelha\obj\Debug\net6.0-windows\JogodaVelha.csproj.CoreCompileInputs.cache
+C:\Users\Dorotheo\Documents\C#\JogodaVelha\JogodaVelha\obj\Debug\net6.0-windows\JogodaVelha.dll
+C:\Users\Dorotheo\Documents\C#\JogodaVelha\JogodaVelha\obj\Debug\net6.0-windows\refint\JogodaVelha.dll
+C:\Users\Dorotheo\Documents\C#\JogodaVelha\JogodaVelha\obj\Debug\net6.0-windows\JogodaVelha.pdb
+C:\Users\Dorotheo\Documents\C#\JogodaVelha\JogodaVelha\obj\Debug\net6.0-windows\JogodaVelha.genruntimeconfig.cache
+C:\Users\Dorotheo\Documents\C#\JogodaVelha\JogodaVelha\obj\Debug\net6.0-windows\ref\JogodaVelha.dll
